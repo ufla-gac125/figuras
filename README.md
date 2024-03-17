@@ -1,4 +1,4 @@
-# Projeto `Formas`
+# Projeto `Figuras`
 
 Autores: Michael Kölling and David J. Barnes
 
