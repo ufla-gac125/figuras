@@ -45,7 +45,3 @@ O projeto também demonstra
  - a criação de objetos no BlueJ
  - a chamada de métodos interativamente
  - passagem de parâmetros
-
-Um bom segundo projeto para examinar depois deste é o "figura", que adiciona
-uma classe a estas deste projeto. Tal classe (chamada "figura") usa as formas
-para desenhar uma figura. Ela pode ser usada para treinar a codificação.
