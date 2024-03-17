@@ -7,10 +7,10 @@ Autores: Michael Kölling and David J. Barnes
 Este projeto é parte do material do livro
 
 ```
-   Objects First with Java - A Practical Introduction using BlueJ
-   6ª edição
+   Programação Orientada a Objetos com Java - Uma Introdução Prática Usando o BlueJ
+   4ª edição
    David J. Barnes e Michael Kölling
-   Pearson Education, 2017
+   Pearson Education, 2009
 ```
 
 É discutido no capítulo 1.
